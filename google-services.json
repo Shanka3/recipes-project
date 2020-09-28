@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "75097777714",
+    "firebase_url": "https://food-house-731e2.firebaseio.com",
+    "project_id": "food-house-731e2",
+    "storage_bucket": "food-house-731e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75097777714:android:370aa56a91b07d9948fe2b",
+        "android_client_info": {
+          "package_name": "com.example.foodhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75097777714-d2cqcopho6k37q601n7v98h65h17utkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdGN-wdzVOYBqMZBoHhOQWAKIkTzHj8BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75097777714-d2cqcopho6k37q601n7v98h65h17utkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
