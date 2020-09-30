@@ -206,6 +206,22 @@ public class DetailActivity extends AppCompatActivity {
                     }
                     if(mComment.size()==3)
                     {
+                        twomComment.add(mComment.get(2));
+                    }
+                    if(mComment.size()==4)
+                    {
+                        twomComment.add(mComment.get(3));
+                    }
+                    if(mComment.size()==5)
+                    {
+                        twomComment.add(mComment.get(4));
+                    }
+                    if(mComment.size()==6)
+                    {
+                        twomComment.add(mComment.get(5));
+                    }
+                    if(mComment.size()==7)
+                    {
                         moreless.setVisibility(View.VISIBLE);
                     }
                 }

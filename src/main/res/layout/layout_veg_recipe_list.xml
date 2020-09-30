@@ -28,7 +28,7 @@
             <TextView
                 android:id="@+id/tvTitle"
                 android:layout_width="match_parent"
-                android:layout_height="26dp"
+                android:layout_height="30dp"
                 android:layout_marginTop="6dp"
                 android:background="@drawable/recipe_gradient"
                 android:fontFamily="casual"
